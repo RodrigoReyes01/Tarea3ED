@@ -40,4 +40,4 @@ elif(a == "positive" and b== "negative"):
 
 my_item = MyStruct(x, y, a, b, c)
 
-print(my_item) # MyStruct(foo='foo', bar=0, baz=['baz'], qux=User(name='peter'))
+print(my_item)
